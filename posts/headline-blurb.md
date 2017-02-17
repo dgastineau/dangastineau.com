@@ -1,0 +1,1 @@
+Hi, I'm Dan. I'm a data visualization specialist at Aspirent Consulting with a particular focus on Tableau and data analytics. The intersection of science and art in the world of data viz is endlessly fascinating to me, and this site will highlight some of the great work by others and maybe a few things I've learned along the way. Hope you find it interesting.
